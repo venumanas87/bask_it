@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "11124446992",
+    "firebase_url": "https://isrc-67ad6.firebaseio.com",
+    "project_id": "isrc-67ad6",
+    "storage_bucket": "isrc-67ad6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11124446992:android:1f18b45ebd01f5bec9b795",
+        "android_client_info": {
+          "package_name": "xyz.v.baskit.bask_it"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11124446992-la59g7h68ef71frmot73vg6l6882ked4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCny4iMFpjxTETNy4gGIfpjWupDoXZDwyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11124446992-la59g7h68ef71frmot73vg6l6882ked4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
